@@ -1,0 +1,32 @@
+# Dependencies
+markdown: redcarpet
+redcarpet:
+ extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter: pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Mathematics & Statistics Seminars
+tagline:             'Northern Arizona University'
+description:         'Math & Stats Seminars'
+url:                 'http://NAUMathStat.github.io'
+baseurl:             '/seminars'
+paginate:            10
+
+# About/contact
+author:
+  name:              Dana C. Ernst
+  url:               https://twitter.com/danaernst
+  email:             dana@danaernst.com
+
+# Custom vars
+version:             1.0.0
+
+# GitHub
+github:
+  repo:             github.com/NAUMathStat/seminars
