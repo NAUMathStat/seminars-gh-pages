@@ -13,7 +13,7 @@ relative_permalinks: true
 # Setup
 title:               Mathematics & Statistics Seminars
 tagline:             'Northern Arizona University'
-description:         'Math & Stats Seminars'
+description:         'Math & Stat Seminars'
 url:                 'http://NAUMathStat.github.io'
 baseurl:             '/seminars'
 paginate:            10
